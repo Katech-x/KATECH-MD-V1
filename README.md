@@ -4,22 +4,19 @@ Whatsapp bot created by DIGITRONIX TECH
   </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/LeZF4x3ttDg7dcPBNP23Tn">
-    <img alt=Support height="550" src='https://s4.aconvert.com/convert/p3r68-cdx67/a6k4w-2fgto.jpg'
-      (https://github.com/user-attachments/assets/34d64aed-61b5-460a-8415-6ac1809cc179)
-"
     <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=Based+By+X+TECH+CORP." alt="">
 </p>
-<h1 align="center"> 🔞𝐃𝐈𝐆𝐈𝐓𝐑𝐎𝐍𝐈𝐗-𝐓𝐄𝐂𝐇🔰 </h1>
+<h1 align="center"> 🔞TEAM KATECH🔰 </h1>
 </h1>
 <p align="center"> 𝐇𝐞𝐫𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐛𝐨𝐧𝐝 𝐨𝐟 𝐭𝐡𝐞 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 👇
 <p align="center"> 
  <a href="https://whatsapp.com/channel/0029VadaaRZK5cDOTh6sMD41" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
  </a>   
 
  
- ### ℹ️ **ABOUT X-TECH V1.5**
+ ### ℹ️ *ABOUT KATECH MD V1*
  Introducing X-TECH V1, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 
@@ -28,6 +25,7 @@ Whatsapp bot created by DIGITRONIX TECH
 
 ***◉ Multi-Device Support  
 ◉ Prank   
+◉ Anti-Bug
 ◉ Download Multi services 
 ◉ Hidden NSFW Commands   
 ◉ Anime Commands   
@@ -37,7 +35,7 @@ Whatsapp bot created by DIGITRONIX TECH
 
 
 1. ***Star⭐ The Repository Must***
-2. ***Click [FORK](https://github.com/X-TECH-CORP/X-TECH-V1.5/fork)***
+2. ***Click [FORK](https://github.com/Katech-x//KATECH-MD-V1/fork)***
 3. ***[PAIR-CODE](https://x-tech-corp-web.onrender.com) `Whatapp>Three dots>Linked devices>connect with phone number`***
     <br>
     
@@ -81,7 +79,7 @@ Whatsapp bot created by DIGITRONIX TECH
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=[https://github.com/toge01https://github.https://github.com/X-TECH-CORP/X-TECH-V1/edihttps://github.com/X-TECH-CORP/X-TECH-V1/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=[https://github.com/Katech-x//KATECH-MD-V1/edihttps://github.com/Katech-x//KATECH-MD-V1/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 #### DEPLOY TO RAILWAY
@@ -107,21 +105,21 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/X-TECH-CORP/X-TECH-V1/
-cd X-TECH-CORP V1
+git clone https://github.com/Katech-x//KATECH-MD-V1
+cd KATECH-MD-V1
 yarn install
 npm start
 ```
 
 ## `For 24/7 Activation (Termux)`
 ```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+npm i -g pm2 && pm2 start main.js && pm2 save && pm2 logs
 ```
 
 
 ##
 - ***Star ⭐ My Repo If You Like X-TECH-V1***
-- ***The [X TECH V1](https://github.com/X-TECH-CORP/X-TECH-V1/) is Made Under The [Apache-2.0 license](https://github.com/toge012345/TOGE-MD/blob/main/LICENSE).***
+- ***The [X TECH V1](https://github.com/Katech-x//KATECH-MD-V1/) is Made Under The [Apache-2.0 license](https://github.com/Katech-x//KATECH-MD-V1/blob/main/LICENSE).***
 - ***[Apache-2.0 license](https://github.com/X-TECH-CORP/X-TECH-V1/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
 
