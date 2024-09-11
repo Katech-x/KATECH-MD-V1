@@ -35,11 +35,10 @@
 
 
 1. ***Star⭐ The Repository Must***
+   
 2. ***Click [FORK](https://github.com/Katech-x//KATECH-MD-V1/fork)***
-3. ***[PAIR-CODE](https://x-tech-corp-web.onrender.com) `Whatapp>Three dots>Linked devices>connect with phone number`***
-    <br>
-    
-5. ***[QR-CODE](https://gpt-qr-code.onrender.com) `Whatapp>Three dots>Linked Devices`***
+   
+3. ***[SESSION-ID](https://gpt-qr-code.onrender.com) `Whatapp>Three dots>Linked Devices`***
     <br>
   
 ***[𝗔𝗨𝗧𝗛𝗢𝗥 𝗢𝗙 𝗤𝗥 𝗖𝗢𝗗𝗘](https://github.com/DarkMakerofc)***
