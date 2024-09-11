@@ -132,13 +132,13 @@ npm i -g pm2 && pm2 start main.js && pm2 save && pm2 logs
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
 - *If Someone Modify My Bot Or Try To Copy It I Will Instantly Give Legal Copy Right Strike And Ban That User Repo And Account*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and And Got Banned*
-- ***Credit : [X-TECH](https://github.com/Joker15-tech) [Dev Wha](https://wa.me/2250500107362)***
-- ***Credit : [Kerm](https://github.com/Kgtech-cmr)[Dev Wha](https://wa.me/237656520674)***
-- ***Credit : [Arthur Sasaki](https://github.com/Alp24ni)[Dev Wha](https://wa.me/221768649590)***
-- ***Credit : [Papy Limule](https://github.com/Limule3650)[Dev Wha](https://wa.me/237698581946)***
-- ***Credit : [Akashi Sasaki](https://github.com/Acnologiagun)[Dev Wha](https://wa.me/242067274660)***
-- ***Credit : [Mr Death](https://github.com/)[Dev Wha](https://wa.me/22897669189)***
-- ***Credit : [Raizen Linkid](https://github.com/)[Dev Wha](https://wa.me/22871255034)***
-- ***Credit : [Shelby](https://github.com/Hackingshelby)[Dev Wha](https://wa.me/243896216263)***
-- ***Credit : [SIGMA Sasaki](https://github.com/)[Dev Wha](https://wa.me/224620506827)***
+- ***Credit : [X-TECH](https://github.com/Joker15-tech)   [Dev Wha](https://wa.me/2250500107362)***
+- ***Credit : [Kerm](https://github.com/Kgtech-cmr).   [Dev Wha](https://wa.me/237656520674)***
+- ***Credit : [Arthur Sasaki](https://github.com/Alp24ni)   [Dev Wha](https://wa.me/221768649590)***
+- ***Credit : [Papy Limule](https://github.com/Limule3650)   [Dev Wha](https://wa.me/237698581946)***
+- ***Credit : [Akashi Sasaki](https://github.com/Acnologiagun)   [Dev Wha](https://wa.me/242067274660)***
+- ***Credit : [Mr Death](https://github.com/)[Dev Wha]   (https://wa.me/22897669189)***
+- ***Credit : [Raizen Linkid](https://github.com/)   [Dev Wha](https://wa.me/22871255034)***
+- ***Credit : [Shelby](https://github.com/Hackingshelby)   [Dev Wha](https://wa.me/243896216263)***
+- ***Credit : [SIGMA Sasaki](https://github.com/)   [Dev Wha](https://wa.me/224620506827)***
 ##
