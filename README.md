@@ -119,7 +119,7 @@ npm i -g pm2 && pm2 start main.js && pm2 save && pm2 logs
 
 ##
 - ***Star ⭐ My Repo If You Like X-TECH-V1***
-- ***The [X TECH V1](https://github.com/Katech-x//KATECH-MD-V1/) is Made Under The [Apache-2.0 license](https://github.com/Katech-x//KATECH-MD-V1/blob/main/LICENSE).***
+- ***The [KATECH MD V1](https://github.com/Katech-x//KATECH-MD-V1/) is Made Under The [Apache-2.0 license](https://github.com/Katech-x//KATECH-MD-V1/blob/main/LICENSE).***
 - ***[Apache-2.0 license](https://github.com/Katech-x/KATECH-MD-V1/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
 
