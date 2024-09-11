@@ -1,9 +1,9 @@
 # KATECH MD V1
-Whatsapp bot created by DIGITRONIX TECH
+**Whatsapp bot created by Team Katech*
 ```KATECH MD V1```
   </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/LeZF4x3ttDg7dcPBNP23Tn">
+  <a href="https://chat.whatsapp.com/EIIpU9iX7MpFbPcNBgBmdO">
     <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=Based+By+X+TECH+CORP." alt="">
 </p>
@@ -59,7 +59,7 @@ Whatsapp bot created by DIGITRONIX TECH
 
 2. Now Deploy
     <br>
-    <a href='https://repl.it/github.com/X-TECH-CORP/X-TECH-V1/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://repl.it/github.com/Katech-x/KATECH-MD-V1/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 ### DEPLOY TO CODESPACE
 
@@ -132,5 +132,11 @@ npm i -g pm2 && pm2 start main.js && pm2 save && pm2 logs
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
 - *If Someone Modify My Bot Or Try To Copy It I Will Instantly Give Legal Copy Right Strike And Ban That User Repo And Account*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and And Got Banned*
-- ***Credit : [Joker15-tech](https://github.com/Joker15-tech)***
+- ***Credit : [X-TECH](https://github.com/Joker15-tech)***
+- ***Credit : [Kerm](https://github.com/Kgtech-cmr)***
+- ***Credit : [Arthur Sasaki](https://github.com/Alp24ni)***
+- ***Credit : [Papy Limule](https://github.com/Joker15-tech)***
+- ***Credit : [Akashi Sasaki](https://github.com/Joker15-tech)***
+- ***Credit : [Mr Death](https://github.com/Joker15-tech)***
+- ***Credit : [Raizen Linkid](https://github.com/Joker15-tech)***
 ##
