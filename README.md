@@ -120,7 +120,7 @@ npm i -g pm2 && pm2 start main.js && pm2 save && pm2 logs
 ##
 - ***Star ⭐ My Repo If You Like X-TECH-V1***
 - ***The [X TECH V1](https://github.com/Katech-x//KATECH-MD-V1/) is Made Under The [Apache-2.0 license](https://github.com/Katech-x//KATECH-MD-V1/blob/main/LICENSE).***
-- ***[Apache-2.0 license](https://github.com/Katech-x/X-TECH-V1/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
+- ***[Apache-2.0 license](https://github.com/Katech-x/KATECH-MD-V1/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
 
 ### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
@@ -135,10 +135,10 @@ npm i -g pm2 && pm2 start main.js && pm2 save && pm2 logs
 - ***Credit : [X-TECH](https://github.com/Joker15-tech)***
 - ***Credit : [Kerm](https://github.com/Kgtech-cmr)***
 - ***Credit : [Arthur Sasaki](https://github.com/Alp24ni)***
-- ***Credit : [Papy Limule](https://github.com/Joker15-tech)***
-- ***Credit : [Akashi Sasaki](https://github.com/Joker15-tech)***
-- ***Credit : [Mr Death](https://github.com/Joker15-tech)***
-- ***Credit : [Raizen Linkid](https://github.com/Joker15-tech)***
-- ***Credit : [Shelby](https://github.com/Joker15-tech)***
-- ***Credit : [SIGMA Sasaki](https://github.com/Joker15-tech)***
+- ***Credit : [Papy Limule](https://github.com/Limule3650)***
+- ***Credit : [Akashi Sasaki](https://github.com/Acnologiagun)***
+- ***Credit : [Mr Death](https://github.com/)***
+- ***Credit : [Raizen Linkid](https://github.com/)***
+- ***Credit : [Shelby](https://github.com/Hackingshelby)***
+- ***Credit : [SIGMA Sasaki](https://github.com/)***
 ##
