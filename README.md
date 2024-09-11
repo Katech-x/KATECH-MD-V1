@@ -137,7 +137,7 @@ npm i -g pm2 && pm2 start main.js && pm2 save && pm2 logs
 - ***Credit : [Arthur Sasaki](https://github.com/Alp24ni)   [Dev Wha](https://wa.me/221768649590)***
 - ***Credit : [Papy Limule](https://github.com/Limule3650)   [Dev Wha](https://wa.me/237698581946)***
 - ***Credit : [Akashi Sasaki](https://github.com/Acnologiagun)   [Dev Wha](https://wa.me/242067274660)***
-- ***Credit : [Mr Death](https://github.com/)[Dev Wha]   (https://wa.me/22897669189)***
+- ***Credit : [Mr Death](https://github.com/)  [Dev Wha](https://wa.me/22897669189)***
 - ***Credit : [Raizen Linkid](https://github.com/)   [Dev Wha](https://wa.me/22871255034)***
 - ***Credit : [Shelby](https://github.com/Hackingshelby)   [Dev Wha](https://wa.me/243896216263)***
 - ***Credit : [SIGMA Sasaki](https://github.com/)   [Dev Wha](https://wa.me/224620506827)***
