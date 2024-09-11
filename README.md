@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://chat.whatsapp.com/EIIpU9iX7MpFbPcNBgBmdO">
     <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=Based+By+X+TECH+CORP." alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=Product+by+Katech" alt="">
 </p>
 <h1 align="center"> 🔞TEAM KATECH🔰 </h1>
 </h1>
@@ -17,7 +17,7 @@
 
  
  ### ℹ️ *ABOUT KATECH MD V1*
- Introducing X-TECH V1, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+ Introducing KATECH MD V1, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 
 `🕯ＦＥＡＴＵＲＥＳ🕯`
@@ -120,7 +120,7 @@ npm i -g pm2 && pm2 start main.js && pm2 save && pm2 logs
 ##
 - ***Star ⭐ My Repo If You Like X-TECH-V1***
 - ***The [X TECH V1](https://github.com/Katech-x//KATECH-MD-V1/) is Made Under The [Apache-2.0 license](https://github.com/Katech-x//KATECH-MD-V1/blob/main/LICENSE).***
-- ***[Apache-2.0 license](https://github.com/X-TECH-CORP/X-TECH-V1/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
+- ***[Apache-2.0 license](https://github.com/Katech-x/X-TECH-V1/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
 
 ### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
@@ -139,4 +139,6 @@ npm i -g pm2 && pm2 start main.js && pm2 save && pm2 logs
 - ***Credit : [Akashi Sasaki](https://github.com/Joker15-tech)***
 - ***Credit : [Mr Death](https://github.com/Joker15-tech)***
 - ***Credit : [Raizen Linkid](https://github.com/Joker15-tech)***
+- ***Credit : [Shelby](https://github.com/Joker15-tech)***
+- ***Credit : [SIGMA Sasaki](https://github.com/Joker15-tech)***
 ##
